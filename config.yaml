@@ -1,0 +1,90 @@
+baseURL: "https://www.example.com/"
+theme: "up-business-theme"
+languageCode: "en-us"
+
+title: "Kerdos Infrasoft"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  title: "Kerdos Infrasoft"
+  description: "We are a tech company dedicated to innovation and excellence. Our mission is to empower businesses through cutting-edge solutions and technology. Join us on the journey to success."
+  images: 
+    - "images/hero-image.png"
+
+  logo: "arrow-up.png"
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+  social:
+    dribbble: "#"
+    instagram: "#"
+    facebook: "#"
+    twitter: "#"
+
+  location:
+    - "Unit 101,Oxford Towers 139, HAL Airport Rd, Kodihalli, Indiranagar, Bengaluru 560008"
+
+  contact:
+    - "info@kerdos.in"
+    - "+91 99645 01739"
+
+  copyright: "© 2024 Kerdos Infrasoft Private Limited All Rights Reserved"
+
+menus:
+  main:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    - name: "How we work"
+      url: "/#"
+      weight: 2
+
+    - name: "Our team"
+      url: "/#"
+      weight: 3
+
+    - name: "Pricing"
+      url: "/#"
+      weight: 4
+
+    - name: "Blog"
+      url: "/blog"
+      weight: 5
+
+  buttons:
+    - name: "Book a call"
+      url: "/#"
+      weight: 5
+      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    - name: "How we work"
+      url: "/#"
+      weight: 2
+
+    - name: "Our team"
+      url: "/#"
+      weight: 3
+
+    - name: "Pricing"
+      url: "/#"
+      weight: 4
+
+    - name: "Blog"
+      url: "/blog"
+      weight: 5
+
+taxonomies:
+  series: "series"
+  tags: "tags"

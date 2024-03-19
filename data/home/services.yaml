@@ -1,0 +1,27 @@
+enabled: true
+id: "services"
+
+content:
+  title: "Our main services"
+  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  cards:
+    - image: "images/services-web-development.png"
+      title: "AI-Powered Business Optimization"
+      text: "Harness the power of artificial intelligence to streamline your business operations, optimize resource allocation, and drive growth. Our AI technologies are designed to enhance efficiency across various domains, including supply chain management, marketing strategies, and risk mitigation. "
+      button:
+        label: "Learn more"
+        url: "#"
+
+    - image: "images/services-web-development.png"
+      title: "Advanced Decision Support Systems"
+      text: "Empower your decision-making processes with our advanced AI insights. Our solutions provide actionable intelligence that helps you navigate complex challenges confidently. Whether you're optimizing operational processes, refining strategic initiatives, or mitigating risks, our AI-driven decision support systems enable you to make informed choices efficiently. "
+      button:
+        label: "Learn more"
+        url: "#"
+
+    - image: "images/services-web-development.png"
+      title: "Innovative Customer Experience Solutions"
+      text: "Revolutionize how you engage with your customers using our AI-driven innovations. From personalized recommendations to predictive analytics, our solutions enable you to deliver exceptional customer experiences. Anticipate customer needs, exceed expectations, and foster long-term relationships by leveraging our innovative AI technologies. "
+      button:
+        label: "Learn more"
+        url: "#"

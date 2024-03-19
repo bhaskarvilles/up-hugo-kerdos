@@ -1,0 +1,26 @@
+enabled: true
+id: "testimonials"
+
+content:
+  title: "Testimonials"
+
+  featured:
+    image: "images/testimonials-awards.png"
+    text: "Kerdos Infrasoft's AI solutions have completely transformed our business operations. With their expertise, we've optimized our supply chain, reduced costs, and improved overall efficiency. Their team's commitment to innovation and excellence is truly commendable."
+    client: "IFLO Technologies"
+
+  list:
+    - text: "We were struggling to make sense of the vast amount of data in our industry. Kerdos Infrasoft's AI insights provided us with actionable intelligence that has revolutionized our decision-making process. Thanks to their solutions, we now have a competitive edge in the market."
+      client: "Anonymous Customer"
+
+    - text: "Kerdos Infrasoft's AI-driven customer experience solutions have exceeded our expectations. Their personalized recommendations and predictive analytics have significantly enhanced our interactions with clients. Our customer satisfaction levels have soared, thanks to their innovative technologies."
+      client: "David Williams, Head of Sales at DEF Enterprises"
+
+    - text: "Cybersecurity is a top priority for our organization, and Kerdos Infrasoft's AI-powered security solutions have been invaluable. Their proactive approach to threat detection and mitigation has given us peace of mind, knowing that our digital assets are well-protected. We highly recommend their services to any business looking to bolster their cybersecurity measures."
+      client: "Sarah Martinez, IT Manager at GHI Incorporated"
+
+    - text: "As a healthcare provider, we needed innovative solutions to improve patient outcomes while managing costs. Kerdos Infrasoft's AI-driven healthcare innovations have been a game-changer for us. Their predictive analytics and personalized treatment recommendations have allowed us to deliver more effective care to our patients."
+      client: "Dr. Rebecca Jones, Chief Medical Officer at Healthcare Innovations"
+
+    - text: "n the financial industry, staying ahead of market trends is crucial. Kerdos Infrasoft's AI-optimized investment solutions have helped us do just that. Their algorithms analyze market data in real-time, enabling us to make data-driven investment decisions with confidence. We've seen a significant improvement in our portfolio performance since partnering with Kerdos Infrasoft."
+      client: "Michael Thompson, Financial Analyst at Wealth Management Solutions"

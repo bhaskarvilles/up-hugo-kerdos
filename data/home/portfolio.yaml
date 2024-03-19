@@ -1,0 +1,39 @@
+enabled: true
+id: "portfolio"
+
+content:
+  - image: "images/portfolio-ecommerce.png"
+    pretitle: "Generative AI Websites"
+    title: "Streamline Operations with Kerdos Infrasoft's AI"
+    text: "Kerdos Infrasoft specializes in AI technologies to streamline processes, optimize resource allocation, and drive growth. With us, unlock new levels of efficiency and propel your business towards success."
+
+    buttons: 
+      - label: "See live"
+        url: "#"
+
+      - label: "Read more"
+        url: "#"
+
+  - image: "images/services-web-development.png"
+    pretitle: "Enhancing Decision-Making with Advanced AI Insights"
+    title: "Empower Decisions: AI Insights by Kerdos Infrasoft"
+    text: "Kerdos Infrasoft provides actionable insights empowering decision-makers to navigate complex challenges confidently. Our AI solutions optimize supply chains, marketing strategies, and risk mitigation for smarter decisions, faster."
+
+    buttons: 
+      - label: "See live"
+        url: "#"
+
+      - label: "Read more"
+        url: "#"
+
+  - image: "images/digital-marketing.png"
+    pretitle: "Revolutionizing Customer Experiences with AI Innovation"
+    title: "Elevate Experiences: AI Innovation by Kerdos Infrasoft"
+    text: "Kerdos Infrasoft offers AI-driven solutions to revolutionize customer engagement. From personalized recommendations to predictive analytics, exceed expectations and foster lasting relationships."
+
+    buttons: 
+      - label: "See live"
+        url: "#"
+
+      - label: "Read more"
+        url: "#"

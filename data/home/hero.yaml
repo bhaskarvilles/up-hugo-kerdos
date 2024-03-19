@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "How to **level up** your business with AI"
+  text: "Experience the future of technology with Kerdos Infrasoft. We're dedicated to pushing boundaries, fostering innovation, and delivering top-notch tech solutions. Join us in shaping the digital landscape."
+
+  buttonPrimary:
+    label: "How we work"
+    url: "mailto:info@kerdos.in"
+
+  buttonSecondary:
+    label: "Let's talk"
+    url: "tel:+919964501739"
+
