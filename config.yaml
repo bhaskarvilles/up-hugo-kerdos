@@ -12,7 +12,7 @@ params:
   title: "Kerdos Infrasoft"
   description: "We are a tech company dedicated to innovation and excellence. Our mission is to empower businesses through cutting-edge solutions and technology. Join us on the journey to success."
   images: 
-    - "images/hero-image.png"
+    - "https://raw.githubusercontent.com/bhaskarvilles/kerdos/bhaskarvilles/images/kali-ferrofluid.jpg"
 
   logo: "arrow-up.png"
 
