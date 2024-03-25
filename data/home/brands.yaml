@@ -4,8 +4,8 @@ id: "brands"
 content:
   title: "We work with customers Open Softwares, Brands and startups "
   items:
-    - "images/brands-samsumg.png"
-    - "images/brands-google.png"
-    - "images/brands-adobe.png"
-    - "images/brands-spotify.png"
-    - "images/brands-dropbox.png"
+    - ".public/images/brands-samsumg.png"
+    - ".public/images/brands-google.png"
+    - ".public/images/brands-adobe.png"
+    - ".public/images/brands-spotify.png"
+    - ".public/images/brands-dropbox.png"
