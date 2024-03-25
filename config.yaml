@@ -1,4 +1,4 @@
-baseURL: "https://kerdos.in/"
+baseURL: "."
 theme: "up-business-theme"
 languageCode: "en-us"
 
