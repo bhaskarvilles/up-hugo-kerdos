@@ -6,6 +6,6 @@ content:
   items:
     - ".public/images/brands-samsumg.png"
     - ".public/images/brands-google.png"
-    - ".public/images/brands-adobe.png"
+    - "https://github.com/bhaskarvilles/up-hugo-kerdos/blob/master/public/images/brands-adobe.png"
     - ".public/images/brands-spotify.png"
     - ".public/images/brands-dropbox.png"
